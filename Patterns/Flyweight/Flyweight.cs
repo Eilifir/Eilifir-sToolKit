@@ -1,0 +1,9 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Flyweight
+{
+    public float speed = 0;
+    public Vector3 dir;
+}
